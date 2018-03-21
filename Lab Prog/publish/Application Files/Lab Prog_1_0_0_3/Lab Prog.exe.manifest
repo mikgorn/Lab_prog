@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Lab Prog.exe" version="1.0.0.3" publicKeyToken="eee070abb22e7eec" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Lab Prog" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Lab Prog.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lab Prog.exe" size="26088">
+      <assemblyIdentity name="Lab Prog" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>bg4+IqUKh26Cq2bmG3I+SC/FKRc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.dll" size="345600">
+      <assemblyIdentity name="System.Data.SQLite" version="1.0.106.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>3VYMa1nYq/qI3MbrQ44eWOPZC7w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.Linq.dll" size="186880">
+      <assemblyIdentity name="System.Data.SQLite.Linq" version="1.0.106.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>A//ZF8uKrvxOC2EUqDFghAdFxnQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Lab Prog.exe.config" size="2394">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2kIfyDEmjRAFlDOZOpj21HTO6iY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SQLite.Interop.dll" size="1141248">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RGblfHt+v4RQAiiIN2vdzo9pS1Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="System.Data.SQLite.dll" size="345600">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3VYMa1nYq/qI3MbrQ44eWOPZC7w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="System.Data.SQLite.xml" size="1022648" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8FHBKAjmJmx9PNDh2FmVxqXhB2g=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-7LDR8QE\Kirill" issuerKeyHash="bee14b7016d88342287c87bce18365c988641605" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>lnI7s9+6qP+8Au7fV3ool1HsI/I=</DigestValue></Reference></SignedInfo><SignatureValue>XFVj9hvjf2zzqfAb0MmU93ySURoz1Bi8cOd2D/XdXuiZnVd8RJW+eCmRf+BcuReg/hOsdNyrfCsK2jKUB+Bda9LInGkfAHIbqlcghmCQqCMd3P4SLTsuLl++u8ACzcz2QOcrg0W/7OlYXbaJ2Hl3sUYb6Ad7aJN1p2L7o2dRH7E=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rzl8gaJJnP5Xfh591HWUvzgUF/0JaFowUMHqCK2ompYkW4wostGvrLlQz/RFIQ1FJIBsqbIjfokBcHATxsKp/2PxYXsH/0O/zQTViLE/QgKp/CqPNtkn4cm5Gd0hF4SbRCi9kKy9EWKsVQWrmwWT/tuAXQ6a8bdODjmDyBtnlAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f223ec5197287a57dfee02bcffa8badfb33b7296" Description="" Url=""><as:assemblyIdentity name="Lab Prog.exe" version="1.0.0.3" publicKeyToken="eee070abb22e7eec" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-7LDR8QE\Kirill</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>f27uq1KOMWJawt/YxbnjrSsk52I=</DigestValue></Reference></SignedInfo><SignatureValue>SfpypcqENXVM6q8UNUC4C9WgdAbNjDx0T5N/OW/vG0eOLj70NgqBGetAWIUrTUquPuqXO23ygDR8deED/H1Z2QtdMRtRXbiaHP/usKBQu4TFEnAKTgnHmTDCk0PZFzd+8u8TbLHYegmjGQcB4KD0BHXm86HA+y3yajOaIfyNxvI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rzl8gaJJnP5Xfh591HWUvzgUF/0JaFowUMHqCK2ompYkW4wostGvrLlQz/RFIQ1FJIBsqbIjfokBcHATxsKp/2PxYXsH/0O/zQTViLE/QgKp/CqPNtkn4cm5Gd0hF4SbRCi9kKy9EWKsVQWrmwWT/tuAXQ6a8bdODjmDyBtnlAE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQZanoopJAU45D3Kgyf2oqwjANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtADcATABEAFIAOABRAEUAXABLAGkAcgBpAGwAbDAeFw0xNzExMjMyMjE3NTVaFw0xODExMjQwNDE3NTVaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ANwBMAEQAUgA4AFEARQBcAEsAaQByAGkAbABsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvOXyBokmc/ld+Hn3UdZS/OBQX/QloWjBQweoIraialiRbjCiy0a+suVDP9EUhDUUkgGypsiN+iQFwcBPGwqn/Y/Fhewf/Q7/NBNWIsT9CAqn8Ko822SfhybkZ3SEXhJtEKL2QrL0RYqxVBaubBZP+24BdDprxt04OOYPIG2eUAQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFXwPatXcl1HbvwmAOU4/6jJ1RQVfGDSzkULGnR7W1hnR03jJURDYE32oywNOUuYZJYiA7Nx6k2c4LMj9NRtmmOnJF0i9paHyPB0+zuMUa/79e9FWJRGgGgvH9REGJAFQ5IMvl5LK/eO5YwbTYpbIHC/nN9qml3u3EGBABzgZVsE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

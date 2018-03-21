@@ -1,0 +1,42 @@
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\Lab Prog.exe.config
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\Lab Prog.exe
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\Lab Prog.pdb
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\EntityFramework.dll
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\EntityFramework.xml
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab_Prog.main.resources
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab_Prog.Properties.Resources.resources
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab Prog.csproj.GenerateResource.Cache
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab Prog.exe
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab Prog.pdb
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab Prog.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab Prog.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\Lab Prog.exe.manifest
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\bin\Debug\Lab Prog.application
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab Prog.exe.manifest
+C:\Users\Kirill\documents\visual studio 2017\Projects\Lab Prog\Lab Prog\obj\Debug\Lab Prog.application
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab_Prog.main.resources
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab_Prog.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab Prog.csproj.GenerateResource.Cache
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab Prog.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab Prog.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\Lab Prog.exe.config
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\Lab Prog.exe.manifest
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\Lab Prog.application
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\Lab Prog.exe
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\Lab Prog.pdb
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab Prog.exe.manifest
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab Prog.application
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab Prog.exe
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\obj\Debug\Lab Prog.pdb
+C:\Users\Kirill\Desktop\Lab Prog\Lab Prog\bin\Debug\SQLite.Interop.dll
